@@ -17,3 +17,7 @@ https://ewanwood.github.io/Ravenglass3dModels/Block_10.jpg
 https://ewanwood.github.io/Ravenglass3dModels/Block_11.jpg
 https://ewanwood.github.io/Ravenglass3dModels/Block_12.jpg
 https://ewanwood.github.io/Ravenglass3dModels/Block_13.jpg
+
+https://ewanwood.github.io/Ravenglass3dModels/blockAgi2.jpg
+https://ewanwood.github.io/Ravenglass3dModels/blockAgi2.mtl
+https://ewanwood.github.io/Ravenglass3dModels/blockAgi2.obj
